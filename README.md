@@ -8,8 +8,6 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
 ## The challenge
 
 My challenge was to implement a high-fidelity Figma design from a selection available to you through Frontend Mentor.
@@ -22,9 +20,9 @@ I chose to go with the Fylo Data Storage Component challenge.
 
 ## Approach
 
-I tackled this assignment by creating several sections of components under a parent <div> tag.
+I tackled this assignment by creating several sections of components under a parent **<div>** tag.
 
-There are two major components inside of the parent <div>. One left and one right.
+There are two major components inside of the parent **<div>**: one left and one right.
 
 From there I begin creating the singular components for the left and right, then implemented whatever designs I could using HTML.
 
