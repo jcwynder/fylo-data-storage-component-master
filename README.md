@@ -6,7 +6,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Fylo Data Storage Component](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+[Fylo Data Storage Component Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
 ## The challenge
 
