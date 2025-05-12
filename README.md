@@ -20,9 +20,9 @@ I chose to go with the Fylo Data Storage Component challenge.
 
 ## Approach
 
-I tackled this assignment by creating several sections of components under a parent **<div>** tag.
+I tackled this assignment by creating several sections of components under a parent **div** tag.
 
-There are two major components inside of the parent **<div>**: one left and one right.
+There are two major components inside of the parent **div**: one left and one right.
 
 From there I begin creating the singular components for the left and right, then implemented whatever designs I could using HTML.
 
